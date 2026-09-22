@@ -1,4 +1,4 @@
-# stealien_ssl
+# 건양대학교 X 네이버클라우드 Agentic AI 프로젝트
 
 ## 자료
 
